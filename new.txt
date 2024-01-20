@@ -1,0 +1,7 @@
+1. create repository
+2. creat github acount
+3. push repositiry to github
+4. clone repositore to desctop
+5. creat new file from desctop repository
+6. push new to github
+7. pull to first repository
